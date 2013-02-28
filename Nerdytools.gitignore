@@ -3,4 +3,5 @@ sitemap.xml
 sitemap.xml.gz
 *.log
 error_log
-realfiles/
+realfiles/*
+images/*
