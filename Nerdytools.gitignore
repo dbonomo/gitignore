@@ -5,3 +5,4 @@ sitemap.xml.gz
 error_log
 realfiles/*
 images/*
+nerdytools/db_mysql.php
