@@ -1,6 +1,5 @@
 .htaccess
-sitemap.xml
-sitemap.xml.gz
+sitemap.*
 *.log
 error_log
 realfiles/*

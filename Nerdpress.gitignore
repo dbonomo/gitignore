@@ -1,0 +1,22 @@
+.htaccess
+wp-config.php
+wp-content/uploads/*
+wp-content/blogs.dir/*
+wp-content/upgrade/*
+wp-content/backup-db/*
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+sitemap.*
+*.log
+wp-content/cache/*
+wp-content/backups/*
+sitemap.xml.gz
+error_log
+realfiles/*
+images/*
+nerdytools/db_mysql.php
+
+# Hidden system files
+*.DS_Store
+*[Tt]humbs.db
+*.Trashes
