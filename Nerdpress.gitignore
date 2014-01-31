@@ -18,7 +18,7 @@ images/*
 nerdytools/db_mysql.php
 
 #DBV revision file:
-/data/meta/revision
+/dbv/data/meta/revision
 
 # Hidden system files
 *.DS_Store
