@@ -16,6 +16,7 @@ error_log
 .error_log
 realfiles/*
 images/*
+documentation/*
 nerdytools/db_mysql.php
 
 #DBV revision file:
